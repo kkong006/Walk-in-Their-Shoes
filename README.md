@@ -7,40 +7,40 @@ Although the refugee crisis seems distant, human needs connect all people. the i
 Walk in Their Shoes (or WITS) is similar to a dating site. It matches people or families in stable areas to refugee families. The app allows people to choose either the needs they can help with or for refugees, the needs they may have. From there, it creates a match between the two sides and allows them the opportunity to connect with a donor. 
 
 <br>
-<img height="600" src="https://github.com/WOMYNxH4CKERS/Walk-in-Their-Shoes/blob/master/ScreenshotLogin.png" />
+<img height="500" src="https://github.com/WOMYNxH4CKERS/Walk-in-Their-Shoes/blob/master/ScreenshotLogin.png" />
 <br>
 Login Page
 
 <br>
-<img height="600" src="https://github.com/WOMYNxH4CKERS/Walk-in-Their-Shoes/blob/master/ScreenshotSelectUser.png" />
+<img height="500" src="https://github.com/WOMYNxH4CKERS/Walk-in-Their-Shoes/blob/master/ScreenshotSelectUser.png" />
 <br>
 
 <br>
-<img height="600" src="https://github.com/WOMYNxH4CKERS/Walk-in-Their-Shoes/blob/master/ScreenshotRefugeeRegistration.png" />
+<img height="500" src="https://github.com/WOMYNxH4CKERS/Walk-in-Their-Shoes/blob/master/ScreenshotRefugeeRegistration.png" />
 <br>
 Refugee Registration Page
 
 <br>
-<img height="600" src="https://github.com/WOMYNxH4CKERS/Walk-in-Their-Shoes/blob/master/ScreenshotDonorRegistration.png" />
+<img height="500" src="https://github.com/WOMYNxH4CKERS/Walk-in-Their-Shoes/blob/master/ScreenshotDonorRegistration.png" />
 <br>
 Donor Registration Page
 
 <br>
-<img height="600" src="https://github.com/WOMYNxH4CKERS/Walk-in-Their-Shoes/blob/master/ScreenshotConnect.png" />
+<img height="500" src="https://github.com/WOMYNxH4CKERS/Walk-in-Their-Shoes/blob/master/ScreenshotConnect.png" />
 <br>
 Connect Page
 
 <br>
-<img height="600" src="https://github.com/WOMYNxH4CKERS/Walk-in-Their-Shoes/blob/master/ScreenshotNeeds.png" />
+<img height="500" src="https://github.com/WOMYNxH4CKERS/Walk-in-Their-Shoes/blob/master/ScreenshotNeeds.png" />
 <br>
 Needs Page
 
 <br>
-<img height="600" src="https://github.com/WOMYNxH4CKERS/Walk-in-Their-Shoes/blob/master/ScreenshotMatches.png" />
+<img height="500" src="https://github.com/WOMYNxH4CKERS/Walk-in-Their-Shoes/blob/master/ScreenshotMatches.png" />
 <br>
 Matches Page
 
 <br>
-<img height="600" src="https://github.com/WOMYNxH4CKERS/Walk-in-Their-Shoes/blob/master/ScreenshotMyStory.png" />
+<img height="500" src="https://github.com/WOMYNxH4CKERS/Walk-in-Their-Shoes/blob/master/ScreenshotMyStory.png" />
 <br>
 My Story Page
